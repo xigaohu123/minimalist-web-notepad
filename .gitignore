@@ -1,1 +1,12 @@
 /_tmp/
+.DS_Store
+# macOS 系统文件
+.DS_Store
+.AppleDouble
+.LSOverride
+.Spotlight-V100
+.Trashes
+__MACOSX
+
+# VSCode 编辑器
+.vscode/
